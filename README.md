@@ -17,8 +17,8 @@
 * 운영 중 핫픽스 경험
 ## 🚀 프로젝트 시연 영상
 - 🎥 [AI 법률플랫폼 - 로앤로드 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
-- 🎥 [콜센터 CRM - 블루마크 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
-- 🎥 [WMS 프로젝트 - 프로킨도넛 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
+- 🎥 [콜센터 CRM - 블루마크 시연 영상](https://youtu.be/uD94fqVxENI?si=-94eb5y-TtlYy7j6)
+- 🎥 [WMS 프로젝트 - 프로킨도넛 시연 영상](https://youtu.be/uD94fqVxENI?si=-94eb5y-TtlYy7j6)
 
 <!--
 **psns0122/psns0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
