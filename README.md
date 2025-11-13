@@ -1,19 +1,15 @@
-# 👋 Hi, I'm 건희
-
+# 더 좋은 사용자 경험을 만드는 개발자, 박건희입니다.
 ## 🛠 기술 스택
-
 ### Back-end
 * Spring Boot 3, Java 17
 * Python, YOLOv5/8
 * MyBatis, JPA
 * MySQL 8 (설계·인덱싱·쿼리 최적화 경험)
 * Redis(ElastiCache), JWT 인증/권한 구조
-
 ### Front-end
 * Node.js, Vue 3, Vite, Pinia
 * 커스텀 테이블/모달 등 컴포넌트화
 * 대시보드 제작 (데이터 분석)
-
 ### DevOps / Infra
 * AWS EC2, RDS, Redis
 * Nginx + systemd 배포
