@@ -17,7 +17,7 @@
 * 운영 중 핫픽스 경험
 ## 🚀 프로젝트 시연 영상
 - 🎥 [AI 법률플랫폼 - 로앤로드 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
-- 🎥 [콜센터 CRM - 블루마크 시연 영상](https://youtu.be/uD94fqVxENI?si=-94eb5y-TtlYy7j6)
+- 🎥 [콜센터 CRM - 블루마크 시연 영상](https://youtu.be/_xRmUobxaeY)
 - 🎥 [WMS 프로젝트 - 프로킨도넛 시연 영상](https://youtu.be/uD94fqVxENI?si=-94eb5y-TtlYy7j6)
 
 <!--
