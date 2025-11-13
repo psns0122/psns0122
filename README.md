@@ -14,7 +14,11 @@
 * AWS EC2, RDS, Redis
 * Nginx + systemd 배포
 * VPC·보안그룹 설계, NAT 비용 최적화
-* 운영 중 핫픽스 경험 
+* 운영 중 핫픽스 경험
+## 🚀 프로젝트 시연 영상
+- 🎥 [AI 법률플랫폼 - 로앤로드 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
+- 🎥 [콜센터 CRM - 블루마크 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
+- 🎥 [WMS 프로젝트 - 프로킨도넛 시연 영상](https://www.youtube.com/watch?v=CezoLT2jr04)
 
 <!--
 **psns0122/psns0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
