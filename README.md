@@ -3,7 +3,7 @@
 아이디어를 현실로, 세상과 소통하는 코드를 작성합니다.
 
 ## 데모 사이트
- 1. [블루CRM](psns0122.com)
+ 1. [블루CRM](http://psns0122.com)
 > **TEST ID / PASSWORD**
 >- 본사 관리자: `wm5256@naver.com` / `test1234`
 >- 센터장: `centerhead1@naver.com` / `test1234`
