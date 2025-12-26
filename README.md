@@ -2,6 +2,21 @@
 
 아이디어를 현실로, 세상과 소통하는 코드를 작성합니다.
 
+## 데모 사이트
+ 1. [블루CRM](psns0122.com)
+> **TEST ID / PASSWORD**
+>- 본사 관리자: `wm5256@naver.com` / `test1234`
+>- 센터장: `centerhead1@naver.com` / `test1234`
+>- 전문가: `expert1@naver.com` / `test1234`
+>- 팀장: `manager1@naver.com` / `test1234`
+>- 프로(일반직원): `staff1@naver.com` / `test1234`
+
+ 2. [프로킨도넛](http://prokin.co.kr)
+> **TEST ID / PASSWORD**
+>- 본사 관리자: `kya9505` / `kya9505!`
+>- 창고 관리자: `cmk1031` / `cmk1031!`
+>- 가맹점주: `psns0122` / `psns0122!`
+
 ## 🛠 기술 스택
 ### Back-end
 * Spring Boot 3, Java 17
